@@ -45,6 +45,12 @@ sudo add-apt-repository ppa:snwh/pulp
 sudo apt-get update
 sudo apt-get install -y google-chrome-stable atom paper-icon-theme
 
+mkdir ~/.vim↲
+cd ~/.vim↲
+mkdir colors↲
+↲
+git clone https://github.com/tomasr/molokai↲
+mv molokai/colors/molokai.vim ~/.vim/colors/↲
 
 
 

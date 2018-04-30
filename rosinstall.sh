@@ -14,7 +14,7 @@ sudo apt install -y ros-"$version*"-desktop
 sudo rosdep init
 rosdep update
 
-echo "source /opt/ros/"$version*"/setup.bash" >> .bashrc
+echo "source /opt/ros/"$version"/setup.bash" >> .bashrc
 
 source ~/.bashrc
 mkdir -p ~/catkin_ws/src

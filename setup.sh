@@ -31,7 +31,7 @@ sudo sed -i 's/#DefaultTimeoutStopSec=90s/DefaultTimeoutStopSec=10s/g' /etc/syst
 ##########
 
 #基本
-sudo apt install -y vim git build-essential gparted
+sudo apt install -y vim git build-essential gparted unity-tweak-tool compizconfig-settings-manager
 
 
 #chrome

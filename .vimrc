@@ -1,5 +1,5 @@
     syntax on
-    colorscheme molokai
+    "colorscheme molokai
     set t_Co=256
     
     set encoding=utf-8
